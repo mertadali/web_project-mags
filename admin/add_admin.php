@@ -10,7 +10,7 @@ try {
 
 
 
-     // Kullanıcı adı var mı kontrol et
+     // Kullanıcı adı var mı kontrol et d
      $stmt = $conn->prepare("SELECT * FROM admins WHERE admin_isim = :admin_isim");
      $stmt->bindParam(':admin_isim', $admin_isim);
      $stmt->execute();
