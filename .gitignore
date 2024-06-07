@@ -1,11 +1,11 @@
 
 
-rapor.php
-connection.php
-localhost.sql.php
-localhost.sql.zip
-add_admin.php
-db.php
+MAGS/users/rapor.php
+MAGS/users/connection.php
+MAGS/users/localhost.sql.php
+MAGS/users/localhost.sql.zip
+MAGS/admin/add_admin.php
+MAGS/admin/db.php
 
 
 
