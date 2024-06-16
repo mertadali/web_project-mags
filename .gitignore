@@ -1,14 +1,6 @@
-
-
-MAGS/users/rapor.php
-MAGS/users/connection.php
-MAGS/users/localhost.sql.php
-MAGS/users/localhost.sql.zip
-MAGS/admin/add_admin.php
-MAGS/admin/db.php
-
-
-
-
-
+connection.php
+localhost.sql
+localhost.sql.zip
+add_admin.php
+db.php
 
