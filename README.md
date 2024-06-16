@@ -1,5 +1,9 @@
+<img src="https://raw.githubusercontent.com/mertadali/web_project-mags/main/assets/images/ana.png" width="1200" height="600" alt="Açıklama">
 
-![Site Anasayfası](C:\Users\merta\Pictures\Screenshots\Ekran Görüntüsü (173).png)
+
+<img src="https://raw.githubusercontent.com/mertadali/web_project-mags/main/assets/images/admin.png" width="1200" height="600" alt="Açıklama">
+
+
 
 
 
